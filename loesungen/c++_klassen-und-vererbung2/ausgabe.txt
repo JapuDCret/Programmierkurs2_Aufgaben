@@ -1,0 +1,1 @@
+Beschreibung: Panzer: name='Leopard 2', baujahr=1979, Typ: PanzerBeschreibung: Dreirad: preis=59.990000$, baujahr=2011, Typ: DreiradBeschreibung: Panzer: name='Leopard 2', baujahr=1979, Typ: FahrzeugBeschreibung: Dreirad: preis=59.990000$, baujahr=2011, Typ: Fahrzeug
