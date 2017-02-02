@@ -1,0 +1,5 @@
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung2\Klassen-und-Vererbung2\bin\Release\Klassen-und-Vererbung2.exe.config
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung2\Klassen-und-Vererbung2\bin\Release\Klassen-und-Vererbung2.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung2\Klassen-und-Vererbung2\bin\Release\Klassen-und-Vererbung2.pdb
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung2\Klassen-und-Vererbung2\obj\Release\Klassen-und-Vererbung2.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung2\Klassen-und-Vererbung2\obj\Release\Klassen-und-Vererbung2.pdb

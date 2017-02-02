@@ -1,0 +1,6 @@
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung\Klassen-und-Vererbung\bin\Debug\Klassen-und-Vererbung.exe.config
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung\Klassen-und-Vererbung\bin\Debug\Klassen-und-Vererbung.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung\Klassen-und-Vererbung\bin\Debug\Klassen-und-Vererbung.pdb
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung\Klassen-und-Vererbung\obj\Debug\Klassen-und-Vererbung.csprojResolveAssemblyReference.cache
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung\Klassen-und-Vererbung\obj\Debug\Klassen-und-Vererbung.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_klassen-und-vererbung\Klassen-und-Vererbung\obj\Debug\Klassen-und-Vererbung.pdb

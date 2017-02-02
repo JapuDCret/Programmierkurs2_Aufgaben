@@ -1,0 +1,2 @@
+a.GetHoehe() = 6,3, a.GetName() = Akazie, a.GetBeschreibung() = eine Akazie
+p.GetHoehe() = 6,3, p.GetName() = Pflanze, p.GetBeschreibung() = eine Akazie
