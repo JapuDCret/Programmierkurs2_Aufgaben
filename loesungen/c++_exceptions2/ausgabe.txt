@@ -1,0 +1,14 @@
+Teste box1
+testBox > Breite wird auf 10 gesetzt
+testBox > Breite wird ausgegeben
+printBreite > breite=10
+
+Teste box2
+testBox > Breite wird auf -1 gesetzt
+testBox > InvalidArgumentException: breite muss eine natuerliche Zahl sein
+
+Teste box3
+testBox > Exception: Nullpointer
+
+Teste box4
+Ein unbekannter Fehler ist aufgetreten.

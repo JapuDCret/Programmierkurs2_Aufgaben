@@ -1,0 +1,7 @@
+Was sind laut C11 Standard valide Deklaration für ein Array aus Integer Werten? Wie groß ist das Array(nichts angeben, falls es sich um eine nicht valide Deklaration handelt)
+
+Deklaration          | valide? | Maximale Anzahl der enthaltenen Elemente?
+int arr1[] = { 2 };  |      ja | 1
+int arr2[];          |    nein |               (nein da größe unbekannt zu compilezeit)
+int arr3[1];         |      ja | 1
+int arr4[2] = { 6 }; |      ja | 2

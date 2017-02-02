@@ -6,7 +6,7 @@
 class Auto
 {
 	private:
-		std::string  name;
+		std::string name;
 		int baujahr;
 		
 	public:
