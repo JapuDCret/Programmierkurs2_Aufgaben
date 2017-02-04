@@ -1,0 +1,6 @@
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_events\Events\bin\Debug\Events.exe.config
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_events\Events\bin\Debug\Events.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_events\Events\bin\Debug\Events.pdb
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_events\Events\obj\Debug\Events.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_events\Events\obj\Debug\Events.pdb

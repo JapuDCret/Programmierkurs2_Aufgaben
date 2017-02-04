@@ -1,0 +1,6 @@
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_exceptions-und-operatorenueberladung\Exceptions-und-Operatorenueberladung\bin\Debug\Exceptions-und-Operatorenueberladung.exe.config
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_exceptions-und-operatorenueberladung\Exceptions-und-Operatorenueberladung\bin\Debug\Exceptions-und-Operatorenueberladung.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_exceptions-und-operatorenueberladung\Exceptions-und-Operatorenueberladung\bin\Debug\Exceptions-und-Operatorenueberladung.pdb
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_exceptions-und-operatorenueberladung\Exceptions-und-Operatorenueberladung\obj\Debug\Exceptions-und-Operatorenueberladung.csprojResolveAssemblyReference.cache
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_exceptions-und-operatorenueberladung\Exceptions-und-Operatorenueberladung\obj\Debug\Exceptions-und-Operatorenueberladung.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c#_exceptions-und-operatorenueberladung\Exceptions-und-Operatorenueberladung\obj\Debug\Exceptions-und-Operatorenueberladung.pdb
