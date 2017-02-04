@@ -1,0 +1,6 @@
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c-c++-c#-java_speichermodelle\c#\Speichermodell\bin\Debug\Speichermodell.exe.config
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c-c++-c#-java_speichermodelle\c#\Speichermodell\bin\Debug\Speichermodell.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c-c++-c#-java_speichermodelle\c#\Speichermodell\bin\Debug\Speichermodell.pdb
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c-c++-c#-java_speichermodelle\c#\Speichermodell\obj\Debug\Speichermodell.csprojResolveAssemblyReference.cache
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c-c++-c#-java_speichermodelle\c#\Speichermodell\obj\Debug\Speichermodell.exe
+F:\Dokumente\Programmierkurs2_Aufgaben\loesungen\c-c++-c#-java_speichermodelle\c#\Speichermodell\obj\Debug\Speichermodell.pdb
