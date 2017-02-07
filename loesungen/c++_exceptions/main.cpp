@@ -1,11 +1,12 @@
 #include <iostream>
+#include <exception>
 
 using namespace std;
 
 double divide(double a, double b)
 {
 	if(b == 0)
-		throw -1;
+		throw runtime_error("hu");
 	
 	return a / b;
 }
@@ -30,7 +31,7 @@ int main()
 		test(z, x);
 		test(z, y);
 	}
-	catch(int e)
+	catch(exception& e)
 	{
 		cerr << "Es ist ein Fehler aufgetreten" << endl;
 	}
