@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int work(char* str);
+void work(char* str);
 void uppercase_string(char* str);
 
 int main()
@@ -14,7 +14,7 @@ int main()
 	return 0;
 } 
 
-int work(char* str)
+void work(char* str)
 {
 	printf("str = '%s'\n", str);
 	
@@ -29,9 +29,9 @@ void uppercase_string(char* str)
 	int i;
 	for(i=0; *(str+i) != '\0'; i++)
 	{
-		if( ( *(str+i) >= 'a' ) && ( *(str+i)<= 'z' ) )
+		if( ( (*(str+i)) >= 'a' ) && ( (*(str+i))<= 'z' ) )
 		{
-			*(str+i) = *(str+i) - 'a' + 'A';
+			*(str+i) = (*(str+i)) - 'a' + 'A';
 		}
 	}
 }
