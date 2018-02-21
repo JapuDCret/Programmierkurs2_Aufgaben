@@ -1,10 +1,10 @@
 Was hiervon sind valide Deklarationen der Main Methode? (ankreuzen)
 
 Main                                            | korrekt?
-int main(int argc, char *argv[]) { return 0; }  | ja
+int main(int argc, char *argv[]) { return 0; }  | ja(hierbei kann man Aufrufsparameter abfragen)
 int main(){ return 0; }                         | ja
 float main(){ return 0; }                       | ja, wegen Typausweitung
-void main() { return 0; }                       | ja
-int main(int argc, char **argv) { return 0; }   | ja, andere Schreibweise für ein Array
+void main() { return; }                         | ja
+int main(int argc, char **argv) { return 0; }   | ja, andere Schreibweise für ein Array(hierbei kann man Aufrufsparameter abfragen)
 int main(void) { return 0; }                    | ja
 char* main() { return 0; }                      | ja, da Rückgabe egal ist
