@@ -1,0 +1,2 @@
+t.getHoehe() = 21,9
+p.getHoehe() = 21,9

@@ -1,0 +1,10 @@
+Bildschirm("Sekretariat"): 'Sport' hat begonnen
+Bildschirm("Sekretariat"): 'Sport' wurde beendet
+Bildschirm("Sekretariat"): 'Pause' hat begonnen
+Bildschirm("Sekretariat"): 'Pause' wurde beendet
+Bildschirm("Sekretariat"): 'Deutsch' hat begonnen
+Bildschirm("Sekretariat"): 'Deutsch' wurde beendet
+Bildschirm("Sekretariat"): 'Große Pause' hat begonnen
+Bildschirm("Sekretariat"): 'Große Pause' wurde beendet
+Bildschirm("Sekretariat"): 'Mathe' hat begonnen
+Bildschirm("Sekretariat"): 'Mathe' wurde beendet

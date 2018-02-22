@@ -1,0 +1,11 @@
+Addiere v1 und v2
+Addiere v1 und v3
+ein Fehler ist aufgetreten: Vector values must be positive
+Addiere v2 und v3
+ein Fehler ist aufgetreten: Vector values must be positive
+v1: x=4, y=2
+v2: x=1, y=9
+v3: x=0, y=9
+v4: x=5, y=11
+v5:
+v6:
